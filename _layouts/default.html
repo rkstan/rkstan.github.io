@@ -18,8 +18,10 @@
 </ul>
     </nav>
 
- <main class="main">
-
+ <body class="{{ page.slug }}">
+    <main class="main">
+      {% include header.html %}
+      {{ content }}
       {% include footer.html %}
     </main>
   </body>
