@@ -24,6 +24,14 @@ footer { border-top: 1px solid #d5d5d5;position: relative;
 /* Research */
 ul.posts { margin: 20px auto 40px; font-size: 1.5em; }
 ul.posts li { list-style: none; }
+body:before {
+	content:"";
+	height:100%;
+	float:left;
+	width:0;
+	margin-top:-32767px;/
+}
+
 
 /* CV */
 .cv { margin: 0px 0px 60px; }
@@ -32,6 +40,13 @@ ul.posts li { list-style: none; }
 .cv address, .cv .download { font-family: 'Helvetica', 'Arial', 'Sans-Serif'; }
 .cv address, .cv p { font-size: 1.2em; }
 .cv .download { float: right; font-size: .8em; text-transform: uppercase; }
+body:before {
+	content:"";
+	height:100%;
+	float:left;
+	width:0;
+	margin-top:-32767px;/
+}
 
 /* Outreach */
 ul.posts { margin: 0px 0px 60px; font-size: 1.5em; }
