@@ -4,6 +4,8 @@ title: Curriculum Vitae
 sidebar_link: true
 ---
 
+<a href="../images/Stanimirova_CV_web.pdf"><b>Download my full Curriculum Vitae PDF here</b></a> <br>
+
 ## Education
 Boston University, Boston, Massachusetts, USA
 * Ph.D., Earth and Environment (Expected May 2020)
