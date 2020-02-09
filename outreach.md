@@ -2,7 +2,7 @@
 layout: default
 title: Outreach
 sidebar_link: true
-sidebar_sort_order: 3
+sidebar_sort_order: 2
 ---
 
 <p><b> Graduate Women in Science and Engineering </b><br> 
