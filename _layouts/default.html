@@ -1,43 +1,16 @@
 <!DOCTYPE html>
-<html>
-  <head>
-    <title>{{ page.title }}</title>
-    
-    <link rel="stylesheet" type="text/css" href="/css/main.css">
-    <link rel="stylesheet" href="/font-awesome-4.6.3/css/font-awesome.css">
-  
-  </head>
+<html lang="en-us">
 
+  {% include head.html %}
 
-  <body>
-  	<div id="wrapper">
-    <nav>
-<ul>
-<li><a href="/">Home</a></li>
-<li><a href="/research">Research</a></li>
-<li><a href="/cv">CV</a></li>
-<li><a href="/outreach">Outreach</a></li>
-</ul>
-    </nav>
-<div class="container">
+  <body class="{{ page.layout }}{% if page.url == '/' %} home{% endif %}">
 
-  {{ content }}
+    {% include sidebar.html %}
 
-</div>
-	</div>
+    <main class="container">
+      {{ content }}
+    </main>
+
+    {% include custom-foot.html %}
   </body>
-  
-  <div id="footer">
-   
-
-    <a href="mailto:rkstan@bu.edu" title="email"><i class="fa fa-envelope"></i></a>
-    <a href="https://github.com/rkstan/" title="github"><i class="fa fa-github"></i></a>
-    <a href="https://www.linkedin.com/in/radost-stanimirova-1a801247" title="LinkedIn"><i class="fa fa-linkedin"></i></a>
-    <a href="https://www.researchgate.net/profile/Radost_Stanimirova" title="ResearchGate"><i class="fa fa-flask"></i></a>
-  
- </div>
- 	
-
- 
-
 </html>
