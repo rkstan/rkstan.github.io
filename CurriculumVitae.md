@@ -2,7 +2,7 @@
 layout: default
 title: Curriculum Vitae
 sidebar_link: true
-sidebar_sort_order: 4
+sidebar_sort_order: 1
 ---
 
 <a href="../images/Stanimirova_CV.pdf"><b>Download my full Curriculum Vitae PDF here</b></a> <br>
