@@ -1,5 +1,5 @@
 ---
-layout: page
+layout: default
 title: Outreach
 sidebar_link: true
 ---
