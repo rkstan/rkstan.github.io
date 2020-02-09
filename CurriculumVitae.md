@@ -8,7 +8,7 @@ sidebar_link: true
 
 ## Education
 Boston University, Boston, Massachusetts, USA
-* Ph.D., Earth and Environment (Expected May 2020)
+* Ph.D., Earth and Environment (Expected August 2020)
 * NASA Earth and Space Science Fellow, advised by Dr. Mark Friedl
 * Dissertation Title: Dynamics of Global Pasturelands: Modeling Vulnerabilities and Monitoring Impacts from Humans and Climate Variability<br>
 
