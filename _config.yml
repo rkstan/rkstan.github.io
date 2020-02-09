@@ -1,19 +1,6 @@
 remote_theme: fongandrew/hydeout
 
-# Dependencies
-markdown:         kramdown
-highlighter:      rouge
-
-
 # Setup
 title:            Radost Stanimirova
 tagline:          'Remote sensing, Python, Science'
 url:              https://rkstan.github.io/
-
-plugins:
-  - jekyll-feed
-  - jekyll-gist
-  - jekyll-paginate
-
-# Sidebar link settings
-sidebar_home_link:  true
