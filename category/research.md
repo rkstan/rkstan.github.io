@@ -1,6 +1,7 @@
 ---
 layout: default
 title: Research
+sidebar_link:true
 ---
 
 		<div class="research">
