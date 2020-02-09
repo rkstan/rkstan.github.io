@@ -18,6 +18,6 @@ sidebar_link: true
 <p>The Girls Science Club is a project of GWISE. In coordination with the <a href="http://westendhouse.org/">West End House Boys and Girls Club</a>, we plan fun, hands on activities to convey scientific concepts. Our goal is to help encourage more girls, starting at a young age, to gain an understanding of these concepts and get excited about science and engineering. Our volunteers strive to be positive mentors and STEM role models for our club members, mostly girls in the elementary-school age group. By hosting fun activities and sharing our love for science, we can connect these girls to STEM in a positive manner, and hopefully inspire these girls to consider careers in STEM fields.<br>
 </p>
 <br>
-<img style="float: center;" src="../images/GSC.jpg" width="300" height="400"> <img style="float: center;" src="../images/GSC2.jpg" width="500" height="400">	
+<img style="float: center;" src="../images/GSC2.jpg" width="500" height="400">	
 <br>
 
