@@ -53,8 +53,8 @@ Barnard College of Columbia University, New York, New York, USA
 * **Global Food+ Symposium** - "Modeling and monitoring global rangeland dynamics," Oral Presentation, Tufts University, Boston, MA, February 2018
 
 ## Teaching Experience
-* **Teaching Fellow**, Environmental Change and Sustainability, Boston University (2 semesters)
-* **Teaching Fellow**, Natural Environments: The Atmosphere, Boston University (1 semester)
+* **Teaching Fellow**, Environmental Change and Sustainability, Boston University (2x)
+* **Teaching Fellow**, Natural Environments: The Atmosphere, Boston University (1x)
 * **Guest Lecturer**, Environmental Change and Sustainability, Boston University (2x)
 * **Guest Lecturer**, Remote Sensing of Environment, Boston University (2x) 
 
