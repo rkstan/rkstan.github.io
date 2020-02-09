@@ -2,10 +2,5 @@ remote_theme: fongandrew/hydeout
 
 # Setup
 title:            Radost Stanimirova
-description:      'Geographer at <a href="http://www.bu.edu/earth/">Boston University</a>'
 tagline:          'Remote sensing, Python, Science'
 url:              https://rkstan.github.io/
-baseurl:          /
-author:
-  name:           Radost Stanimirova
-  url:            https://rkstan.github.io/
