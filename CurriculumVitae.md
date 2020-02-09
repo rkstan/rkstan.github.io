@@ -61,6 +61,6 @@ Barnard College of Columbia University, New York, New York, USA
 ## Skills 
 * Statistical Packages:  R, JAGS
 * Programming: Bash, Python, GDAL, git, Google Earth Engine, high performance computing
-* Applications: ArcGIS, QGIS, ENVI, \LaTeX, Microsoft Suite
+* Applications: ArcGIS, QGIS, ENVI, LaTeX, Microsoft Suite
 * Statistics: Machine learning, multivariate analysis, time series analysis
 * Software: www.github.com/rkstan 
