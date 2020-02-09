@@ -53,16 +53,10 @@ Barnard College of Columbia University, New York, New York, USA
 * **Global Food+ Symposium** - "Modeling and monitoring global rangeland dynamics," Oral Presentation, Tufts University, Boston, MA, February 2018
 
 ## Teaching Experience
-**Teaching Fellow**, Environmental Change and Sustainability, Boston University 
-* Designed and implemented weekly in-class worksheets and homework (2 semesters)
-**Teaching Fellow**, Natural Environments: The Atmosphere, Boston University 
-* Instructed weekly lab lectures for up to 60 students introducing concepts and experiments for natural environment courses (1 semester)
-**Guest Lecturer**, Environmental Change and Sustainability, Boston University 
-* Lecture Title: The Laws of Energy and Matter
-**Guest Lecturer**, Remote Sensing of Environment, Boston University
-* Lecture Title: Modeling dynamics of South American pasturelands to climate variability and human impact
-**Guest Lecturer**, Environmental Change and Sustainability, Boston University 
-* Lecture Title: Driving Forces of Environmental Change
+* **Teaching Fellow**, Environmental Change and Sustainability, Boston University (2 semesters)
+* **Teaching Fellow**, Natural Environments: The Atmosphere, Boston University (1 semester)
+* **Guest Lecturer**, Environmental Change and Sustainability, Boston University (2x)
+* **Guest Lecturer**, Remote Sensing of Environment, Boston University (2x) 
 
 ## Skills 
 * Statistical Packages:  R, JAGS
