@@ -2,6 +2,7 @@
 layout: default
 title: Research
 sidebar_link: true
+sidebar_sort_order: 2
 ---
 
 <p><b>Sensitivity of global pasturelands to climate variation</b><br>
