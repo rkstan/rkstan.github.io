@@ -4,7 +4,7 @@ title: Curriculum Vitae
 sidebar_link: true
 ---
 
-<a href="../images/Stanimirova_CV_web.pdf"><b>Download my full Curriculum Vitae PDF here</b></a> <br>
+<a href="../images/Stanimirova_CV.pdf"><b>Download my full Curriculum Vitae PDF here</b></a> <br>
 
 ## Education
 Boston University, Boston, Massachusetts, USA
