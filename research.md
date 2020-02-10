@@ -21,7 +21,7 @@ Pasturelands are an important and understudied part of the global agricultural s
 			
 <p><a href="https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2019EF001316">Stanimirova, R., Arévalo, P., Kaufmann, R. K., Maus, V., Lesiv, M., Havlík, P., & Friedl, M. A. (2019). Sensitivity of Global Pasturelands to Climate Variation. Earth's Future, 7. https://doi.org/10.1029/2019EF001316</a>
 	
-<p> <img style="float: center;" src="../images/Figure5_new_full.png" width="600" height="500"> <br>
+<p> <img style="float: center;" src="../images/Figure5_new_full.png" width="800" height="600"> <br>
 
 			
 
