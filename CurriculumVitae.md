@@ -29,8 +29,9 @@ Barnard College of Columbia University, New York, New York, USA
 
 ## Publications
 * **Stanimirova, R.** & R. Garrett (forthcoming) Pasturelands, Rangelands, and Other Grazing Social-ecological Systems. In *Handbook of Environmental Management*. Ed. B.D. Fath. CRC Press
-* **Stanimirova, R.**, Z. Cai, E.K. Melaas, J.M. Gray, L. Eklundh, P. Jonsson, & M.A. Friedl. 2019. An Empirical Assessment of the MODIS Land Cover Dynamics and TIMESAT Land Surface Phenology Algorithms. Remote Sensing 11(19): 2201. https://doi.org/10.3390/rs11192201
-* **Stanimirova, R.**, P. Arevalo, R.K. Kaufmann, V. Maus, M. Lesiv, P. Havlik, & M.A. Friedl. 2019. Modeling sensitivity of global pasturelands to climate variability. Earth's Future, 7. https://doi.org/10.1029/2019EF001316 
+* **Stanimirova, R.**, Z. Cai, E.K. Melaas, J.M. Gray, L. Eklundh, P. Jonsson, & M.A. Friedl. 2019. An Empirical Assessment of the MODIS Land Cover Dynamics and TIMESAT Land Surface Phenology Algorithms. Remote Sensing 11(19): 2201. <a href="https://doi.org/10.3390/rs11192201">https://doi.org/10.3390/rs11192201</a> 
+
+* **Stanimirova, R.**, P. Arevalo, R.K. Kaufmann, V. Maus, M. Lesiv, P. Havlik, & M.A. Friedl. 2019. Modeling sensitivity of global pasturelands to climate variability. Earth's Future, 7. <a href="https://doi.org/10.1029/2019EF001316">https://doi.org/10.1029/2019EF001316</a>
 
 ## Publications Under Review
 * Vasilaky, K., S. Martinez, **R. Stanimirova**, & D.E. Osgood. Group Heterogeneity and the Demand for Index Insurance. Games
