@@ -17,9 +17,11 @@ My dissertation research addresses three main objectives:
 3. In the framework of Land Degradation Neutrality and Sustainable Development Goal (SDG) 15, assess the proportion of pasturelands and rangelands in the Southern Cone of South America that are degraded. 
 
 <p><b>Sensitivity of global pasturelands to climate variation</b><br>
-<img style="float: center;" src="../images/Figure5_new.png" width="600" height="250" align="right"> Pasturelands are an important and understudied part of the global agricultural system. While many studies have focused on the productivity and resiliency of croplands, there is an urgent need to improve our understanding of how global pasturelands will be affected under the combined pressures of a changing climate and increasing population in the coming decades. To address this knowledge gap, the main goal of my research is to develop an observation and modeling framework that exploits remote sensing, meteorological datasets, and land cover information to improve our capability to both monitor and manage the long-term sustainability of this globally extensive and societally critical land use. We are creating an empirical model that quantifies the spatially explicit sensitivity of global pasturelands to short-term climate variations. 
+Pasturelands are an important and understudied part of the global agricultural system. While many studies have focused on the productivity and resiliency of croplands, there is an urgent need to improve our understanding of how global pasturelands will be affected under the combined pressures of a changing climate and increasing population in the coming decades. To address this knowledge gap, the main goal of my research is to develop an observation and modeling framework that exploits remote sensing, meteorological datasets, and land cover information to improve our capability to both monitor and manage the long-term sustainability of this globally extensive and societally critical land use. We are creating an empirical model that quantifies the spatially explicit sensitivity of global pasturelands to short-term climate variations. 
 			
 <p><a href="https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2019EF001316">Stanimirova, R., Arévalo, P., Kaufmann, R. K., Maus, V., Lesiv, M., Havlík, P., & Friedl, M. A. (2019). Sensitivity of Global Pasturelands to Climate Variation. Earth's Future, 7. https://doi.org/10.1029/2019EF001316</a>
+	
+<img style="float: center;" src="../images/Figure5_new.pdf" width="600" height="500"> 
 
 			
 
