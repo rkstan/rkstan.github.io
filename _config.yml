@@ -5,5 +5,7 @@ title:            radost stanimirova
 tagline:          'Remote sensing, Python, Science'
 url:              https://rkstan.github.io/
 
-# Sidebar link settings
-sidebar_home_link:  true
+plugins:
+  - jekyll-feed
+  - jekyll-gist
+  - jekyll-paginate
