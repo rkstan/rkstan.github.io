@@ -20,6 +20,6 @@ My dissertation research addresses three main objectives:
 	
 <p> <img style="float: center;" src="../images/Figure5_new_full.png" width="800" height="600"> <br>
 
-**Figure** Global mean seasonal sensitivity of pasturelands: (a) resistance to drought and (b) resilience. This figure shows the model coefficients for precipitation (a) and lagged vegetation anomalies (b) for the 20 different study units. Areas in purple and blue are most sensitive to change in precipitation regimes. Note that the two scales have different ranges.
+*Figure* Global mean seasonal sensitivity of pasturelands: (a) resistance to drought and (b) resilience. This figure shows the model coefficients for precipitation (a) and lagged vegetation anomalies (b) for the 20 different study units. Areas in purple and blue are most sensitive to change in precipitation regimes. Note that the two scales have different ranges.
 			
 
