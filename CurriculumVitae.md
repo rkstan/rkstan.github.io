@@ -9,14 +9,14 @@ sidebar_sort_order: 4
 
 <b> Education </b><br>
 Boston University, Boston, Massachusetts, USA
-* Ph.D., Earth and Environment (Expected August 2020)
-* NASA Earth and Space Science Fellow, advised by Dr. Mark Friedl
-* Dissertation Title: Dynamics of Global Pasturelands: Modeling Vulnerabilities and Monitoring Impacts from Humans and Climate Variability<br>
+<li>Ph.D., Earth and Environment (Expected August 2020)</li>
+<li>NASA Earth and Space Science Fellow, advised by Dr. Mark Friedl</li>
+<li>Dissertation Title: Dynamics of Global Pasturelands: Modeling Vulnerabilities and Monitoring Impacts from Humans and Climate Variability</li>
 
 Barnard College of Columbia University, New York, New York, USA
-* B.A., Environmental Science,  May 2012
-* Minors: Anthropology
-* Senior Thesis: Organic Carbon Transport through Holocene and Pleistocene  Sediment in Southeast Asia: Implications for Arsenic Mobilization<br>
+<li>B.A., Environmental Science,  May 2012</li>
+<li>Minors: Anthropology</li>
+<li>Senior Thesis: Organic Carbon Transport through Holocene and Pleistocene  Sediment in Southeast Asia: Implications for Arsenic Mobilization</li>
 
 <b>Honors and Awards</b>
 * NASA Earth and Space Science Fellowship, 2017-present (\$30,000/year)
