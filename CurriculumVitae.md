@@ -7,7 +7,7 @@ sidebar_sort_order: 4
 
 <a href="../images/Stanimirova_CV.pdf"><b>Download my full Curriculum Vitae PDF here</b></a> <br>
 
-## Education
+<p><b> Education </b><br> 
 Boston University, Boston, Massachusetts, USA
 * Ph.D., Earth and Environment (Expected August 2020)
 * NASA Earth and Space Science Fellow, advised by Dr. Mark Friedl
@@ -18,7 +18,7 @@ Barnard College of Columbia University, New York, New York, USA
 * Minors: Anthropology
 * Senior Thesis: Organic Carbon Transport through Holocene and Pleistocene  Sediment in Southeast Asia: Implications for Arsenic Mobilization<br>
 
-## Honors and Awards
+<p><b>Honors and Awards</b><br> 
 * NASA Earth and Space Science Fellowship, 2017-present (\$30,000/year)
 * Young Scientists Summer Program, International Institute for Applied Systems Analysis, Austria, Summer 2017 (\$6,000)
 * Graduate Summer Fellowship, Frederick S. Pardee Center for the Study of the Longer-Range Future, Boston University, Summer 2016 (\$6,000)
