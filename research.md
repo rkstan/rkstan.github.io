@@ -5,7 +5,7 @@ sidebar_link: true
 sidebar_sort_order: 2
 ---
 
-### Dynamics of Pasturelands: Modeling Vulnerabilities and Monitoring Impacts from Humans and Climate Change
+<b>Dynamics of Pasturelands: Modeling Vulnerabilities and Monitoring Impacts from Humans and Climate Change<b><br>
 
 Approximately 26% of Earth’s land (excluding Antarctica) is occupied by pasturelands, making them the largest non-forest land use on the planet. Pasturelands are globally extensive, heterogeneous, sensitive to climate, and managed by humans to support livestock production, which provides an essential source of food in many parts of the world. In my dissertation, I quantify the extent and magnitude of pastureland sensitivity to climate and degradation in the Southern Cone of South America, a region that has been at the epicenter of human land use change during the 21st century.
 
