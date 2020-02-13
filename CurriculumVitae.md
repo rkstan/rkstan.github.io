@@ -8,30 +8,29 @@ sidebar_sort_order: 4
 <a href="../images/Stanimirova_CV.pdf"><b>Download my full Curriculum Vitae PDF here</b></a> <br>
 
 <b> Education </b><br>
-
 <p>Boston University, Boston, Massachusetts, USA
 <li>Ph.D., Earth and Environment (Expected August 2020)</li>
 <li>NASA Earth and Space Science Fellow, advised by Dr. Mark Friedl</li>
-<li>Dissertation Title: Dynamics of Global Pasturelands: Modeling Vulnerabilities and Monitoring Impacts from Humans and Climate Variability</li><br>
+<li><b>Dissertation Title:<b> Dynamics of Global Pasturelands: Modeling Vulnerabilities and Monitoring Impacts from Humans and Climate Variability</li><br>
 
 <p>Barnard College of Columbia University, New York, New York, USA
 <li>B.A., Environmental Science,  May 2012</li>
 <li>Minors: Anthropology</li>
-<li>Senior Thesis: Organic Carbon Transport through Holocene and Pleistocene  Sediment in Southeast Asia: Implications for Arsenic Mobilization</li><br>
+<li><b>Senior Thesis:<b> Organic Carbon Transport through Holocene and Pleistocene  Sediment in Southeast Asia: Implications for Arsenic Mobilization</li><br>
 
 <b>Honors and Awards</b>
-<li>NASA Earth and Space Science Fellowship, 2017-present (\$30,000/year)</li>
-<li>Young Scientists Summer Program, International Institute for Applied Systems Analysis, Austria, Summer 2017 (\$6,000)</li>
-<li>Graduate Summer Fellowship, Frederick S. Pardee Center for the Study of the Longer-Range Future, Boston University, Summer 2016 (\$6,000)</li>
+<li>NASA Earth and Space Science Fellowship, 2017-present ($30,000/year)</li>
+<li>Young Scientists Summer Program, International Institute for Applied Systems Analysis, Austria, Summer 2017 ($6,000)</li>
+<li>Graduate Summer Fellowship, Frederick S. Pardee Center for the Study of the Longer-Range Future, Boston University, Summer 2016 ($6,000)</li>
 <li>Biogeoscience Symposium Outstanding Elevator Pitch Award, Boston University, 2016</li>
-<li>Dean's Fellowship, GRS Graduate Fellowship, Boston University, Spring 2015 (\$10,250)</li>
-<li>The Lillian Berle Dare Prize for advanced study in Geography, Barnard College, 2012 (\$500)</li>
-<li>Hughes Science Pipeline Project, Barnard College, 2010-2011 (\$3,000)</li><br>
+<li>Dean's Fellowship, GRS Graduate Fellowship, Boston University, Spring 2015 ($10,250)</li>
+<li>The Lillian Berle Dare Prize for advanced study in Geography, Barnard College, 2012 ($500)</li>
+<li>Hughes Science Pipeline Project, Barnard College, 2010-2011 ($3,000)</li><br>
 
 <b>Publications</b>
-<li><b>Stanimirova, R.<b> & R. Garrett (forthcoming) Pasturelands, Rangelands, and Other Grazing Social-ecological Systems. In *Handbook of Environmental Management*. Ed. B.D. Fath. CRC Press</li>
-<li><b>Stanimirova, R.<b>, P. Arevalo, R.K. Kaufmann, V. Maus, M. Lesiv, P. Havlik, & M.A. Friedl. 2019. Modeling sensitivity of global pasturelands to climate variability. Earth's Future, 7. <a href="https://doi.org/10.1029/2019EF001316">https://doi.org/10.1029/2019EF001316</a></li>
-<li><b>Stanimirova, R.<b>, Z. Cai, E.K. Melaas, J.M. Gray, L. Eklundh, P. Jonsson, & M.A. Friedl. 2019. An Empirical Assessment of the MODIS Land Cover Dynamics and TIMESAT Land Surface Phenology Algorithms. Remote Sensing 11(19): 2201. <a href="https://doi.org/10.3390/rs11192201">https://doi.org/10.3390/rs11192201</a></li>
+<li><b>Stanimirova, R.</b> & R. Garrett (forthcoming) Pasturelands, Rangelands, and Other Grazing Social-ecological Systems. In <i>Handbook of Environmental Management</i>. Ed. B.D. Fath. CRC Press</li>
+<li><b>Stanimirova, R.</b>, P. Arevalo, R.K. Kaufmann, V. Maus, M. Lesiv, P. Havlik, & M.A. Friedl. 2019. Modeling sensitivity of global pasturelands to climate variability. Earth's Future, 7. <a href="https://doi.org/10.1029/2019EF001316">https://doi.org/10.1029/2019EF001316</a></li>
+<li><b>Stanimirova, R.</b>, Z. Cai, E.K. Melaas, J.M. Gray, L. Eklundh, P. Jonsson, & M.A. Friedl. 2019. An Empirical Assessment of the MODIS Land Cover Dynamics and TIMESAT Land Surface Phenology Algorithms. Remote Sensing 11(19): 2201. <a href="https://doi.org/10.3390/rs11192201">https://doi.org/10.3390/rs11192201</a></li>
 
 ## Publications Under Review
 * Vasilaky, K., S. Martinez, **R. Stanimirova**, & D.E. Osgood. Group Heterogeneity and the Demand for Index Insurance. Games
