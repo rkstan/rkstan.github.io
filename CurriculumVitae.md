@@ -8,17 +8,19 @@ sidebar_sort_order: 4
 <a href="../images/Stanimirova_CV.pdf"><b>Download my full Curriculum Vitae PDF here</b></a> <br>
 
 <b> Education </b><br>
+
 <p>Boston University, Boston, Massachusetts, USA
 <li>Ph.D., Earth and Environment (Expected August 2020)</li>
 <li>NASA Earth and Space Science Fellow, advised by Dr. Mark Friedl</li>
-<li><b>Dissertation Title:<b> Dynamics of Global Pasturelands: Modeling Vulnerabilities and Monitoring Impacts from Humans and Climate Variability</li><br>
+<li><b>Dissertation Title:</b> Dynamics of Global Pasturelands: Modeling Vulnerabilities and Monitoring Impacts from Humans and Climate Variability</li><br>
 
 <p>Barnard College of Columbia University, New York, New York, USA
 <li>B.A., Environmental Science,  May 2012</li>
 <li>Minors: Anthropology</li>
-<li><b>Senior Thesis:<b> Organic Carbon Transport through Holocene and Pleistocene  Sediment in Southeast Asia: Implications for Arsenic Mobilization</li><br>
+<li><b>Senior Thesis:</b> Organic Carbon Transport through Holocene and Pleistocene  Sediment in Southeast Asia: Implications for Arsenic Mobilization</li><br>
 
 <b>Honors and Awards</b>
+
 <li>NASA Earth and Space Science Fellowship, 2017-present ($30,000/year)</li>
 <li>Young Scientists Summer Program, International Institute for Applied Systems Analysis, Austria, Summer 2017 ($6,000)</li>
 <li>Graduate Summer Fellowship, Frederick S. Pardee Center for the Study of the Longer-Range Future, Boston University, Summer 2016 ($6,000)</li>
@@ -28,17 +30,20 @@ sidebar_sort_order: 4
 <li>Hughes Science Pipeline Project, Barnard College, 2010-2011 ($3,000)</li><br>
 
 <b>Publications</b>
+
 <li><b>Stanimirova, R.</b> & R. Garrett (forthcoming) Pasturelands, Rangelands, and Other Grazing Social-ecological Systems. In <i>Handbook of Environmental Management</i>. Ed. B.D. Fath. CRC Press</li>
 <li><b>Stanimirova, R.</b>, P. Arevalo, R.K. Kaufmann, V. Maus, M. Lesiv, P. Havlik, & M.A. Friedl. 2019. Modeling sensitivity of global pasturelands to climate variability. Earth's Future, 7. <a href="https://doi.org/10.1029/2019EF001316">https://doi.org/10.1029/2019EF001316</a></li>
 <li><b>Stanimirova, R.</b>, Z. Cai, E.K. Melaas, J.M. Gray, L. Eklundh, P. Jonsson, & M.A. Friedl. 2019. An Empirical Assessment of the MODIS Land Cover Dynamics and TIMESAT Land Surface Phenology Algorithms. Remote Sensing 11(19): 2201. <a href="https://doi.org/10.3390/rs11192201">https://doi.org/10.3390/rs11192201</a></li>
 
-## Publications Under Review
-* Vasilaky, K., S. Martinez, **R. Stanimirova**, & D.E. Osgood. Group Heterogeneity and the Demand for Index Insurance. Games
+<b>Publications Under Review</b>
 
-## Publications in Preparation
-* **Stanimirova, R.**, Graesser J., & M.A. Friedl. Mapping pasture and rangeland degradation in the Southern Cone of South America using Landsat. Remote Sensing of Environment
-* Graesser J., **Stanimirova, R.**, & M.A. Friedl. Commodity crops and frontier agricultural dynamics in the Southern Cone of South America. Remote Sensing of Environment
-* **Stanimirova, R.** & C. Hirsch. A subnational analysis of large-scale foreign land aquistions with remote sensing and GIS data. Journal of Economic Geography 
+<li>Vasilaky, K., S. Martinez, <b>R. Stanimirova</b>, & D.E. Osgood. Group Heterogeneity and the Demand for Index Insurance. Games</li>
+
+<b>Publications in Preparation</b>
+
+<li><b>Stanimirova, R.</b>, Graesser J., & M.A. Friedl. Mapping pasture and rangeland degradation in the Southern Cone of South America using Landsat. Remote Sensing of Environment</li>
+<li>Graesser J., <b>Stanimirova, R.</b>, & M.A. Friedl. Commodity crops and frontier agricultural dynamics in the Southern Cone of South America. Remote Sensing of Environment</li>
+<li><b>Stanimirova, R.</b> & C. Hirsch. A subnational analysis of large-scale foreign land aquistions with remote sensing and GIS data. Journal of Economic Geography</li>
 
 ## Conference Presentations
 * **Global Land Programme Open Science Meeting** - "Mapping pasture and rangeland degradation in the Southern Cone of South America using Landsat," Poster Presentation, Bern, Switzerland, April 2019
