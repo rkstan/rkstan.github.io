@@ -11,7 +11,7 @@ Approximately 26% of Earth’s land (excluding Antarctica) is occupied by pastur
 
 My dissertation research addresses three main objectives: 
 
-1. Determine the sensitivity of pasturelands to climate variability across different climate zones, livestock production systems, and seasons. 
+1. Determine the sensitivity of global pasturelands to climate variability across different climate zones, livestock production systems, and seasons. 
 2. Quantify the proportional cover and transitions through time among herbaceous cover, woody plants, and bare ground in the Southern Cone of South America. 
 3. In the framework of Land Degradation Neutrality and Sustainable Development Goal (SDG) 15, assess the proportion of pasturelands in the Southern Cone of South America that are degraded. 
 
@@ -20,6 +20,6 @@ My dissertation research addresses three main objectives:
 	
 <img style="float: center;" src="../images/Figure5_new_full.png" width="800" height="600">
 
-*Figure* Global mean seasonal sensitivity of pasturelands: (a) resistance to drought and (b) resilience. This figure shows the model coefficients for precipitation (a) and lagged vegetation anomalies (b) for the 20 different study units. Areas in purple and blue are most sensitive to change in precipitation regimes. Note that the two scales have different ranges.
+Global mean seasonal sensitivity of pasturelands: (a) resistance to drought and (b) resilience. This figure shows the model coefficients for precipitation (a) and lagged vegetation anomalies (b) for the 20 different study units. Areas in purple and blue are most sensitive to change in precipitation regimes. Note that the two scales have different ranges.
 			
 
