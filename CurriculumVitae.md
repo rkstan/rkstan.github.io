@@ -7,7 +7,7 @@ sidebar_sort_order: 4
 
 <a href="../images/Stanimirova_CV.pdf"><b>Download my full Curriculum Vitae PDF here</b></a> <br>
 
-<b> Education </b> 
+<b> Education </b><br>
 Boston University, Boston, Massachusetts, USA
 * Ph.D., Earth and Environment (Expected August 2020)
 * NASA Earth and Space Science Fellow, advised by Dr. Mark Friedl
