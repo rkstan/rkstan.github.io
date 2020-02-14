@@ -1,3 +1,7 @@
+# Dependencies
+markdown:         kramdown
+highlighter:      rouge
+
 # Setup
 title:            Radost
 tagline:          'Remote sensing, Python, Science'
