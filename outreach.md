@@ -12,7 +12,6 @@ sidebar_sort_order: 3
 <img style="float: center;" src="../images/GWISE_10YearGala_0473.jpg" width="568.96" height="379.31">	
 <img style="float: center;" src="../images/GWISE_10YearGala_0403.jpg" width="568.96" height="379.31">	
 <p> Graduate Women in Science and Engineering (GWISE) at Boston University strives to create a community to support and promote women in science, technology, engineering, and math fields. Through professional development seminars and workshops, social events, mentoring, and outreach, GWISE fosters interaction across disciplines at Boston University and connects graduate students to postdocs, faculty, and broader networks in Boston and beyond. GWISE is open to all who support our cause. As leaders of the community, GWISE works to advance university policies and programs that promote equality and foster diversity and excellence. GWISE provides resources to address challenges facing women in STEM.<br>
-<br>
 
 ### Girls Science Club
 
