@@ -5,6 +5,8 @@ title:            Radost
 tagline:          'Remote sensing, Python, Science'
 url:              https://rkstan.github.io/
 
+paginate:         5
+
 plugins:
   - jekyll-feed
   - jekyll-gist
