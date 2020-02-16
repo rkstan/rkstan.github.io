@@ -64,4 +64,4 @@ Barnard College of Columbia University, New York, New York, USA
 * Programming: Bash, Python, GDAL, git, Google Earth Engine, high performance computing
 * Applications: ArcGIS, QGIS, ENVI, LaTeX, Microsoft Suite
 * Statistics: Machine learning, multivariate analysis, time series analysis
-* Software: https://github.com/rkstan
+* Software: <a href="GitHub">https://github.com/rkstan</a>
