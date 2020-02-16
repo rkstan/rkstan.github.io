@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: page
 title: Curriculum Vitae
 sidebar_link: true
 sidebar_sort_order: 4
