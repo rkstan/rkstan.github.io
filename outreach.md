@@ -1,5 +1,5 @@
 ---
-layout: default
+layout: page
 title: Outreach
 sidebar_link: true
 sidebar_sort_order: 3
