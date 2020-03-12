@@ -28,7 +28,7 @@ Barnard College of Columbia University, New York, New York, USA
 * Hughes Science Pipeline Project, Barnard College, 2010-2011 ($3,000)
 
 ### Publications
-* Vasilaky, K., S.M. Sáenz, **R. Stanimirova**, & D.E. Osgood. 2020. Perceptions of Farm Size Het- erogeneity and Demand for Group Index Insurance. Games, 11, 15. <a href="https://doi.org/10.3390/g11010015">https://doi.org/10.3390/g11010015</a>
+* Vasilaky, K., S.M. Sáenz, **R. Stanimirova**, & D.E. Osgood. 2020. Perceptions of Farm Size Heterogeneity and Demand for Group Index Insurance. Games, 11, 15. <a href="https://doi.org/10.3390/g11010015">https://doi.org/10.3390/g11010015</a>
 * **Stanimirova, R.**, P. Arevalo, R.K. Kaufmann, V. Maus, M. Lesiv, P. Havlik, & M.A. Friedl. 2019. Modeling sensitivity of global pasturelands to climate variability. Earth's Future, 7. 
 <a href="https://doi.org/10.1029/2019EF001316">https://doi.org/10.1029/2019EF001316</a>
 * **Stanimirova, R.**, Z. Cai, E.K. Melaas, J.M. Gray, L. Eklundh, P. Jonsson, & M.A. Friedl. 2019. An Empirical Assessment of the MODIS Land Cover Dynamics and TIMESAT Land Surface Phenology Algorithms. Remote Sensing 11(19): 2201. <a href="https://doi.org/10.3390/rs11192201">https://doi.org/10.3390/rs11192201</a>
