@@ -39,7 +39,7 @@ Barnard College of Columbia University, New York, New York, USA
 ### Publications in Preparation
 * **Stanimirova, R.**, J. Graesser, A. Baccini, L. Carvahlo, & M.A. Friedl. Widespread Changes in Vegetation Cover and Composition in the Southern Cone of South America. Remote Sensing of Environment
 * **Stanimirova, R.**, J. Graesser, & M.A. Friedl. Satellite-based Estimates of Land Degradation Across Ecoregions in the Southern Cone of South America in Support of the 2030 Agenda for Sustainable Development. Global Change Biology
-Graesser J., **Stanimirova, R.** & M.A. Friedl. Commodity Crops and Frontier Agricultural Dynamics in the Southern Cone of South America. Remote Sensing of Environment
+* Graesser J., **Stanimirova, R.** & M.A. Friedl. Commodity Crops and Frontier Agricultural Dynamics in the Southern Cone of South America. Remote Sensing of Environment
 
 
 ### Conference Presentations
