@@ -43,6 +43,8 @@ Barnard College of Columbia University, New York, New York, USA
 
 
 ### Conference Presentations
+* **American Geophysical Union (AGU)** - "Satellite-based Estimates of Land Degradation Across the Southern Cone of South America in Support of the 2030 Agenda for Sustainable Development," eLightning and Virtual Poster Presentation, online, December 2020
+* **American Geophysical Union (AGU)** - "Mapping Pasture and Rangeland Degradation in the Southern Cone of South America using Landsat," Poster Presentation, San Francisco, CA, December 2019
 * **Global Land Programme Open Science Meeting** - "Mapping Pasture and Rangeland Degradation in the Southern Cone of South America Using Landsat," Poster Presentation, Bern, Switzerland, April 2019
 * **NASA Land Cover/Land Use Change Science Meeting** - "Assessing Pastureland Degradation in the Southern Cone of South America Using Spectral Mixture Analysis," Lightning Talk and Poster Presentation, Rockville, MD, April 2019
 * **American Geophysical Union (AGU)** - "Mapping Continuous Fields of Bare Ground, Grass, and Woody Cover in the Southern Cone of South America using Landsat," Poster Presentation, Washington DC, December 2018
