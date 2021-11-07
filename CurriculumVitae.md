@@ -18,6 +18,13 @@ Barnard College of Columbia University, New York, New York, USA
 * Minors: Anthropology
 * Senior Thesis: Organic Carbon Transport through Holocene and Pleistocene  Sediment in Southeast Asia: Implications for Arsenic Mobilization
 
+### Skills 
+* Programming: python (scikit-learn, pandas, seaborn etc.), GDAL, Bash, R, git, Google Earth Engine, high performance computing
+* Applications: ArcGIS, QGIS, ENVI, LaTeX, Microsoft Suite
+* Statistics: Machine learning, multivariate analysis, time series analysis
+* Leadership: Self-motivated, collaborative, strong interpersonal communicator 
+* Software: <a href="https://github.com/rkstan">https://github.com/rkstan</a>
+
 ### Honors and Awards
 * NASA Earth and Space Science Fellowship, 2017-2020 ($30,000/year)
 * Young Scientists Summer Program, International Institute for Applied Systems Analysis, Austria, Summer 2017 ($6,000)
@@ -28,6 +35,7 @@ Barnard College of Columbia University, New York, New York, USA
 * Hughes Science Pipeline Project, Barnard College, 2010-2011 ($3,000)
 
 ### Publications
+* Graesser J., **Stanimirova, R.** & M.A. Friedl. 2021. Reconstruction of satellite time series with a dynamic smoother. Earth ArXiv. <a href=https://doi.org/10.31223/X5FW4X>https://doi.org/10.31223/X5FW4X</a>
 * **Stanimirova, R.** & R. Garrett. 2020. Pasturelands, Rangelands, and Other Grazing Social-ecological Systems. In <i>Managing Soils and Terrestrial Systems, 2nd Edition</i>. Ed. B. Fath & S. Jorgensen. Boca Raton: CRC Press, <a href="https://doi.org/10.1201/9780429346255">https://doi.org/10.1201/9780429346255</a>
 <a href="../images/Stanimirova_Garrett_Grazing_systems_handbook_chapter.pdf"><b>[Download Accepted Manuscript of Chapter]</b></a> <br>
 * Vasilaky, K., S.M. Sáenz, **R. Stanimirova**, & D.E. Osgood. 2020. Perceptions of Farm Size Heterogeneity and Demand for Group Index Insurance. Games, 11, 15. <a href="https://doi.org/10.3390/g11010015">https://doi.org/10.3390/g11010015</a>
@@ -37,10 +45,9 @@ Barnard College of Columbia University, New York, New York, USA
 
 
 ### Publications in Preparation
-* **Stanimirova, R.**, J. Graesser, A. Baccini, L. Carvahlo, & M.A. Friedl. Widespread Changes in Vegetation Cover and Composition in the Southern Cone of South America. Remote Sensing of Environment
+* **Stanimirova, R.**, J. Graesser, & M.A. Friedl. Widespread Changes in Vegetation Cover in the Southern Cone of South America. Global Change Biology
 * **Stanimirova, R.**, J. Graesser, & M.A. Friedl. Satellite-based Estimates of Land Degradation Across Ecoregions in the Southern Cone of South America in Support of the 2030 Agenda for Sustainable Development. Global Change Biology
-* Graesser J., **Stanimirova, R.** & M.A. Friedl. Commodity Crops and Frontier Agricultural Dynamics in the Southern Cone of South America. Remote Sensing of Environment
-
+* Graesser J., **Stanimirova, R.** & M.A. Friedl. Temporally-consistent annual land cover from structured learning of Landsat time series. Remote Sensing of Environment
 
 ### Conference Presentations
 * **American Geophysical Union (AGU)** - "Satellite-based Estimates of Land Degradation Across the Southern Cone of South America in Support of the 2030 Agenda for Sustainable Development," eLightning and Virtual Poster Presentation, online, December 2020
@@ -63,9 +70,4 @@ Barnard College of Columbia University, New York, New York, USA
 * *Guest Lecturer*, Environmental Change and Sustainability, Boston University (2x)
 * *Guest Lecturer*, Remote Sensing of Environment, Boston University (2x) 
 
-### Skills 
-* Statistical Packages:  R, JAGS
-* Programming: Bash, Python, GDAL, git, Google Earth Engine, high performance computing
-* Applications: ArcGIS, QGIS, ENVI, LaTeX, Microsoft Suite
-* Statistics: Machine learning, multivariate analysis, time series analysis
-* Software: <a href="https://github.com/rkstan">https://github.com/rkstan</a>
+
