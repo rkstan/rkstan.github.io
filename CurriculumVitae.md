@@ -19,7 +19,7 @@ Barnard College of Columbia University, New York, New York, USA
 * Senior Thesis: Organic Carbon Transport through Holocene and Pleistocene  Sediment in Southeast Asia: Implications for Arsenic Mobilization
 
 ### Skills 
-* Programming: python (scikit-learn, pandas, seaborn etc.), GDAL, Bash, R, git, Google Earth Engine, high performance computing
+* Programming: Python (scikit-learn, pandas, seaborn etc.), GDAL, Bash, R, git, Google Earth Engine, high performance computing
 * Applications: ArcGIS, QGIS, ENVI, LaTeX, Microsoft Suite
 * Statistics: Machine learning, multivariate analysis, time series analysis
 * Leadership: Self-motivated, collaborative, strong interpersonal communicator 
