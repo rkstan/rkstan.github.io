@@ -52,7 +52,7 @@ Important note: Bold & italic indicates co-first authorship.
 
 ### Publications in Preparation
 * **Stanimirova, R.**, J. Graesser, & M.A. Friedl. Satellite-based Estimates of Land Degradation Across Ecoregions in the Southern Cone of South America in Support of the 2030 Agenda for Sustainable Development. Global Change Biology
-* 
+* **Stanimirova, R.**, K. Tarrio, K. Turlej, K. McAvoy, K-T. Hu, S. Stonebrook, Y. Zhang, P. Arevalo \& M. A. Friedl. A Landsat-based Global Land Cover Training Dataset from 1985 to 2019. Scientific Data 
 
 ### Conference Presentations
 * **American Geophysical Union (AGU)** - "Satellite-based Estimates of Land Degradation Across the Southern Cone of South America in Support of the 2030 Agenda for Sustainable Development," eLightning and Virtual Poster Presentation, online, December 2020
