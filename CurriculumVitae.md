@@ -35,7 +35,11 @@ Barnard College of Columbia University, New York, New York, USA
 * Hughes Science Pipeline Project, Barnard College, 2010-2011 ($3,000)
 
 ### Publications
+* **Stanimirova, R.**, J. Graesser, Olofsson P., & M.A. Friedl. (In print). Widespread Changes in 21st Century Vegetation Cover in Argentina, Paraguay, and Uruguay. Remote Sensing of Environment
+* Graesser, J., **Stanimirova, R.**, Tarrio, K., Copati, E.J., Volante, J.N., Verón, S.R., Banchero, S., Elena, H., Abelleyra, D.d., & M.A. Friedl. 2022. Temporally-Consistent Annual Land Cover from Landsat Time Series in the Southern Cone of South America. Remote Sensing, 14, 4005. <a href="https://doi.org/10.3390/rs14164005">https://doi.org/10.3390/rs14164005</a>
 * Graesser J., **Stanimirova, R.** & M.A. Friedl. 2022. Reconstruction of Satellite Time Series With a Dynamic Smoother. IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing, 15, 1803–1813. <a href="https://doi.org/10.1109/JSTARS.2022.3146081">https://doi.org/10.1109/JSTARS.2022.3146081</a>
+* Zhang Y., Woodcock C.E., Arévalo P., Olofsson P., Tang X., **Stanimirova R.**, Bullock E., Tarrio K.R., Zhu Z., & M.A. Friedl. 2022. A Global Analysis of the Spatial and Temporal Variability of Usable Landsat Observations at the Pixel Scale. Front. Remote Sensing, 3:894618. doi: 10.3389/frsen.2022.894618
+* Friedl M.A., Woodcock C.E., Olofsson P., Zhu Z., Loveland T., **Stanimirova R.**, Arevalo P., Bullock E., Hu K-T., Zhang Y., Turlej K., Tarrio K., McAvoy K., Gorelick N., Wang J.A., Barber C.P. & C. Souza. 2022. Medium Spatial Resolution Mapping of Global Land Cover and Land Cover Change Across Multiple Decades From Landsat. Frontiers in Remote Sensing, 3:894571. doi: 10.3389/frsen.2022.894571
 * **Stanimirova, R.** & R. Garrett. 2020. Pasturelands, Rangelands, and Other Grazing Social-ecological Systems. In <i>Managing Soils and Terrestrial Systems, 2nd Edition</i>. Ed. B. Fath & S. Jorgensen. Boca Raton: CRC Press, <a href="https://doi.org/10.1201/9780429346255">https://doi.org/10.1201/9780429346255</a>
 <a href="../images/Stanimirova_Garrett_Grazing_systems_handbook_chapter.pdf"><b>[Download Accepted Manuscript of Chapter]</b></a> <br>
 * Vasilaky, K., S.M. Sáenz, **R. Stanimirova**, & D.E. Osgood. 2020. Perceptions of Farm Size Heterogeneity and Demand for Group Index Insurance. Games, 11, 15. <a href="https://doi.org/10.3390/g11010015">https://doi.org/10.3390/g11010015</a>
@@ -45,9 +49,7 @@ Barnard College of Columbia University, New York, New York, USA
 
 
 ### Publications in Preparation
-* **Stanimirova, R.**, J. Graesser, & M.A. Friedl. Widespread Changes in Vegetation Cover in the Southern Cone of South America. Global Change Biology
 * **Stanimirova, R.**, J. Graesser, & M.A. Friedl. Satellite-based Estimates of Land Degradation Across Ecoregions in the Southern Cone of South America in Support of the 2030 Agenda for Sustainable Development. Global Change Biology
-* Graesser J., **Stanimirova, R.** & M.A. Friedl. Temporally-consistent annual land cover from structured learning of Landsat time series. Remote Sensing of Environment
 
 ### Conference Presentations
 * **American Geophysical Union (AGU)** - "Satellite-based Estimates of Land Degradation Across the Southern Cone of South America in Support of the 2030 Agenda for Sustainable Development," eLightning and Virtual Poster Presentation, online, December 2020
