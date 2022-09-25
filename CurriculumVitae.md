@@ -11,7 +11,7 @@ sidebar_sort_order: 4
 Boston University, Boston, Massachusetts, USA
 * Ph.D., Earth and Environment, January 2021
 * NASA Earth and Space Science Fellow, advised by Dr. Mark Friedl
-* Dissertation Title: Using Multi-resolution Remote Sensing to Measure Ecosystem Sensitivity and Monitor Land Degradation in Response to Land Use and Climate Variability
+* Dissertation Title: Using Multi-Resolution Remote Sensing to Measure Ecosystem Sensitivity and Monitor Land Degradation in Response to Land Use and Climate Variability
 
 Barnard College of Columbia University, New York, New York, USA
 * B.A., Environmental Science,  May 2012
@@ -38,7 +38,7 @@ Barnard College of Columbia University, New York, New York, USA
 Important note: Bold & italic indicates co-first authorship.
 
 * **Stanimirova, R.**, J. Graesser, Olofsson P., & M.A. Friedl. (In print). Widespread Changes in 21<sup>st</sup> Century Vegetation Cover in Argentina, Paraguay, and Uruguay. Remote Sensing of Environment
-* *Graesser, J.*, **R. _Stanimirova_**, K. Tarrio, E.J. Copati, J.N. Volante, S.R. Verón, S. Banchero, H. Elena, D.d. Abelleyra, & M.A. Friedl. 2022. Temporally-Consistent Annual Land Cover from Landsat Time Series in the Southern Cone of South America. Remote Sensing, 14, 4005. <a href="https://doi.org/10.3390/rs14164005">https://doi.org/10.3390/rs14164005</a>
+* *Graesser, J.*, **_R. Stanimirova_**, K. Tarrio, E.J. Copati, J.N. Volante, S.R. Verón, S. Banchero, H. Elena, D.d. Abelleyra, & M.A. Friedl. 2022. Temporally-Consistent Annual Land Cover from Landsat Time Series in the Southern Cone of South America. Remote Sensing, 14, 4005. <a href="https://doi.org/10.3390/rs14164005">https://doi.org/10.3390/rs14164005</a>
 * Graesser J., **R. Stanimirova** & M.A. Friedl. 2022. Reconstruction of Satellite Time Series With a Dynamic Smoother. IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing, 15, 1803–1813. <a href="https://doi.org/10.1109/JSTARS.2022.3146081">https://doi.org/10.1109/JSTARS.2022.3146081</a>
 * Zhang Y., C.E. Woodcock, P. Arévalo, P. Olofsson, X. Tang, **R. Stanimirova**, E. Bullock, K.R. Tarrio, Z. Zhu, & M.A. Friedl. 2022. A Global Analysis of the Spatial and Temporal Variability of Usable Landsat Observations at the Pixel Scale. Front. Remote Sensing, 3:894618. doi: 10.3389/frsen.2022.894618
 * Friedl M.A., C.E. Woodcock, P. Olofsson, Z. Zhu, T. Loveland, **R. Stanimirova**, P. Arevalo, E. Bullock, K-T. Hu, Y. Zhang, K. Turlej, K. Tarrio, K. McAvoy, N. Gorelick, J.A. Wang, C.P. Barber & C. Souza. 2022. Medium Spatial Resolution Mapping of Global Land Cover and Land Cover Change Across Multiple Decades From Landsat. Frontiers in Remote Sensing, 3:894571. doi: 10.3389/frsen.2022.894571
@@ -52,6 +52,7 @@ Important note: Bold & italic indicates co-first authorship.
 
 ### Publications in Preparation
 * **Stanimirova, R.**, J. Graesser, & M.A. Friedl. Satellite-based Estimates of Land Degradation Across Ecoregions in the Southern Cone of South America in Support of the 2030 Agenda for Sustainable Development. Global Change Biology
+* 
 
 ### Conference Presentations
 * **American Geophysical Union (AGU)** - "Satellite-based Estimates of Land Degradation Across the Southern Cone of South America in Support of the 2030 Agenda for Sustainable Development," eLightning and Virtual Poster Presentation, online, December 2020
