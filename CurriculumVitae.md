@@ -11,7 +11,7 @@ sidebar_sort_order: 4
 Boston University, Boston, Massachusetts, USA
 * Ph.D., Earth and Environment, January 2021
 * NASA Earth and Space Science Fellow, advised by Dr. Mark Friedl
-* Dissertation Title: Dynamics of Global Pasturelands: Modeling Vulnerabilities and Monitoring Impacts from Humans and Climate Variability
+* Dissertation Title: Using Multi-resolution Remote Sensing to Measure Ecosystem Sensitivity and Monitor Land Degradation in Response to Land Use and Climate Variability
 
 Barnard College of Columbia University, New York, New York, USA
 * B.A., Environmental Science,  May 2012
@@ -35,8 +35,10 @@ Barnard College of Columbia University, New York, New York, USA
 * Hughes Science Pipeline Project, Barnard College, 2010-2011 ($3,000)
 
 ### Publications
-* **Stanimirova, R.**, J. Graesser, Olofsson P., & M.A. Friedl. (In print). Widespread Changes in 21st Century Vegetation Cover in Argentina, Paraguay, and Uruguay. Remote Sensing of Environment
-* Graesser, J., **Stanimirova, R.**, Tarrio, K., Copati, E.J., Volante, J.N., Verón, S.R., Banchero, S., Elena, H., Abelleyra, D.d., & M.A. Friedl. 2022. Temporally-Consistent Annual Land Cover from Landsat Time Series in the Southern Cone of South America. Remote Sensing, 14, 4005. <a href="https://doi.org/10.3390/rs14164005">https://doi.org/10.3390/rs14164005</a>
+Important note: Bold & italic indicates co-first authorship.
+
+* **Stanimirova, R.**, J. Graesser, Olofsson P., & M.A. Friedl. (In print). Widespread Changes in 21<sub>st</sub> Century Vegetation Cover in Argentina, Paraguay, and Uruguay. Remote Sensing of Environment
+* * *Graesser, J.* *, ** **Stanimirova, R.** **, Tarrio, K., Copati, E.J., Volante, J.N., Verón, S.R., Banchero, S., Elena, H., Abelleyra, D.d., & M.A. Friedl. 2022. Temporally-Consistent Annual Land Cover from Landsat Time Series in the Southern Cone of South America. Remote Sensing, 14, 4005. <a href="https://doi.org/10.3390/rs14164005">https://doi.org/10.3390/rs14164005</a>
 * Graesser J., **Stanimirova, R.** & M.A. Friedl. 2022. Reconstruction of Satellite Time Series With a Dynamic Smoother. IEEE Journal of Selected Topics in Applied Earth Observations and Remote Sensing, 15, 1803–1813. <a href="https://doi.org/10.1109/JSTARS.2022.3146081">https://doi.org/10.1109/JSTARS.2022.3146081</a>
 * Zhang Y., Woodcock C.E., Arévalo P., Olofsson P., Tang X., **Stanimirova R.**, Bullock E., Tarrio K.R., Zhu Z., & M.A. Friedl. 2022. A Global Analysis of the Spatial and Temporal Variability of Usable Landsat Observations at the Pixel Scale. Front. Remote Sensing, 3:894618. doi: 10.3389/frsen.2022.894618
 * Friedl M.A., Woodcock C.E., Olofsson P., Zhu Z., Loveland T., **Stanimirova R.**, Arevalo P., Bullock E., Hu K-T., Zhang Y., Turlej K., Tarrio K., McAvoy K., Gorelick N., Wang J.A., Barber C.P. & C. Souza. 2022. Medium Spatial Resolution Mapping of Global Land Cover and Land Cover Change Across Multiple Decades From Landsat. Frontiers in Remote Sensing, 3:894571. doi: 10.3389/frsen.2022.894571
