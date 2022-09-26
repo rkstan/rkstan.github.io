@@ -33,7 +33,7 @@ sidebar_sort_order: 2
 	
 <p><a href="https://www.mdpi.com/2072-4292/14/16/4005"></a>Widespread Changes in 21<sup>st</sup> Century Vegetation Cover in Argentina, Paraguay, and Uruguay<br>
 
-<p>We used Landsat to map changes in the fractional cover of bare ground, woody cover, and herbaceous vegetation at annual time steps from 1999 to 2019 over APU. Using field observations and Landsat imagery, we created a spectral library representative of these three cover types. We trained a machine learning model to map annual fractional cover at 30-meter spatial resolution, and used a Bayesian change point algorithm to characterize spatial and temporal trajectories of LCLUC.<br>
+<p>We used Landsat to map changes in the fractional cover of bare ground, woody cover, and herbaceous vegetation at annual time steps from 1999 to 2019 over Argentina, Paraguay, and Uruguay. Using field observations and Landsat imagery, we created a spectral library representative of these three cover types. We trained a machine learning model to map annual fractional cover at 30-meter spatial resolution, and used a Bayesian change point algorithm to characterize spatial and temporal trajectories of LCLUC.<br>
 	
 <p><img style="float: center;" src="../images/Figure4.png" width="800" height="600"><br>
 
