@@ -52,4 +52,9 @@ sidebar_sort_order: 2
 <p><a href="https://www.mdpi.com/2072-4292/11/19/2201">An Empirical Assessment of the MODIS Land Cover Dynamics and TIMESAT Land Surface Phenology Algorithms</a><br>
 
 <p>This study provides a comprehensive comparison of start of season (SOS) and end of season (EOS) phenological transition dates estimated from 500 m MODIS data based on two widely used sources of such data: the TIMESAT program and the MODIS Global Land Cover Dynamics (MLCD) product. Specifically, we evaluate the impact of land cover class, criteria used to identify SOS and EOS, and fitting algorithm (local versus global) on the transition dates estimated from time series of MODIS enhanced vegetation index (EVI). Satellite-derived transition dates from each source are compared against each other and against SOS and EOS dates estimated from PhenoCams distributed across the Northeastern United States and Canada.<br> 
+	
+<p><img style="float: center;" src="../images/Figure1.pdf" width="800" height="600"><br>
+
+<b>Figure:</b> Map of four MODIS tiles and 47 near-surface PhenoCam sites used in the analysis. The background image shows the MODIS Land Cover Type product (MCD12Q1 C6) across the study region using the International Geosphere-Biosphere Programme (IGBP) classification.
+
 
